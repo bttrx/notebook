@@ -1,5 +1,7 @@
 # Notebook Personal Wiki
 
+**UPDATE 2025-04-26:** I, bttrx, archived this repo, because I switched to [Zim \- a desktop wiki](https://zim-wiki.org/ "Zim - a desktop wiki") two (?) years ago.
+
 # History
 
 In 2005 I released Notebook v2.1.3, the latest, most up-to-date version of
